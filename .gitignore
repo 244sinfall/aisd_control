@@ -1,3 +1,4 @@
 /venv
 testimage.jpg
 /.vscode
+/__pycache__
